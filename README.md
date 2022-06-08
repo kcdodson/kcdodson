@@ -19,6 +19,5 @@ I'm here to learn to code, do great things with data prowess, python lover, musi
 Be sure to join the [Discord](https://discord.gg) discord!
 
 
-### Stack Overflow & Stack Exchange Stats
 
 
