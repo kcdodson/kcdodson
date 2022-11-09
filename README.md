@@ -13,7 +13,7 @@ I'm here to learn to code, do great things with data prowess, python lover, musi
 
 #### Github Stats 📊
 
-[![Kacey's's github stats](https://github-readme-stats.vercel.app/api?username=kcdodson)](https://github.com/anuraghazra/github-readme-stats)
+![Kacey's's github stats](https://github-readme-stats.vercel.app/api?username=kcdodson&show_icons=true&theme=radical)
 
 
 Be sure to join the [H311H0U53](https://discord.gg) discord!
